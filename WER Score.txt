@@ -1,0 +1,12 @@
+Malinkundangtest2.wav (30 Sec)
+
+reference = ["bari sekitar wilayah sumatra tepatnya di kota padang selatan terdapat sebuah pantai yang berair jernih pantai itu dinamakan pantai airman disana terdapat satu keluarga kecil yang dianugerahi satu anak bernama malin kundang ibunya adalah seorang nelayan tetapi sebelum malin lahir ayah malin sudah meninggalkan mereka alki"]
+prediction= ["bari sekita rbilaya sumatera tepatnya di kota padang selatan terdapat sebuah panta yang berair jer panta itu dina makan pantai air madi sana terdapat satu keluarga kecil yang dian hurdahi satu anak bernama malinkun ibunya adalah seorang llaya tetapi sebelum malin lahir ayamalin sudah meninggalkan mereka paki"]
+
+Wer Score :  0.41304347826086957
+
+reference = ["halo gengs gw ocha jadi hari ini kita bakal liat sebuah keyboard yang udah ga asing lagi buat kalian yaitu adalah pressplay rover versi ketiga ini adalah sebuah keyboard yang dapat lumayan banyak perubahan dari versi yang sebelumnya dan jujur aja gw suka si coba kita lihat apakah ini bisa jadi keyboard andalan tahun dua ribu dua dua setelah pesan dari sponsor lengkapin setup kalian dengan soundtech pro boom arm yang fleksibel mau ditaruh di samping meja ataupun"]
+prediction= ["haolyang sekuja jari hai inikirawa kalian sebua kibort yang pastingga asing lagi dari kalian yaitudalah presple rovorpersi ketiga indalah sebua kibort yang dapat lumain banyak perubahannya dari vaars yang seberumnya dan jujurja gua sukasi cowakitaliat apak ini bisa jinikibuk adalam tahun duari gududua setelah pesan dirisponsi lengkapin seetap kalian dengan sauntak problum arm yang fleksibel mau ditarun disamping meja atau bun"]
+
+Wer Score = 0.7051282051282052
+
