@@ -10,3 +10,38 @@ prediction= ["haolyang sekuja jari hai inikirawa kalian sebua kibort yang pastin
 
 Wer Score = 0.7051282051282052
 
+Sample_2_channel_03.wav
+reference = ["halo testing call testing call dari dua tiga enam dua nol ke hape testing call dua tiga enam dua nol ke hape testing call dua tiga enam dua nol ke hape testing call terima call dari hape dari dua tiga enam dua puluh terima dari dua tiga enam dua puluh di hape"]
+prediction_transcript = ["hala teftingkol tertingkol dari dua tiga enam dua nol kehape tertingkal dua tiga enam dua enol kehalpe trtingkol dua tiga enam duaenol kalp tertingkal terimakol dari halp dari dua tiga nam dua puluh terima dari dua tiga nam duabu di ape"]
+
+Wer Score :  0.5384615384615384
+
+Sample_2_channel_04.wav
+reference = ["test ini jauhan dikit cek cek ngomonglah tes tes ngomonglah kok ada suaranya tuh ya baguslah berarti bener hah yang bener engga si yauda ye ye ini baru top ni"]
+prediction_transcript = ["tah ini jawan igit tak mamula tngomongla kualdi suat itu eo mal buslah buarti bunar ah akuratun yang benar minggal i ni baro topni menalasaik"]
+
+Wer Score :  0.9333333333333333
+
+Sample_2_channel_06-1.wav
+reference = ["bu halo iya bu eh aku mau emailnya ko joni yang bantuan cek isu incoming call itu aku langsung reply ke kamu lagi aja ya biar bapak monggo tapi aku cc manajemen langsung iya eh itu kedengerannya berarti cuman penny bisa dibantu gitu doang ya iya jadi penny jeda selamat siang lagi eh selamat pagi hm jadi kan kayak ibu nama ibu penny terus kayak ada jeda sedikit baru selamat pagi dengan penny"]
+prediction_transcript = ["bu alo yabehlaku inilnya ku juni yang monbanlancak icu in kan mingkal itu menang aku lang sungri elatik ke kamelaki acaya dier papa kongoaoni api aku sisain meniki menangpung ya ehitu pertengirannya beradi cumanlini bisa dibandug ditu duangnya jadadi penndy jinda pendiik selamat yang lagi etak pagi nya dadikan taya ibuk nama ibu tni mengn dak ada ja sedikit baru kama pagi tacuri dengan peny"]
+
+Wer Score :  0.8082191780821918
+
+Sample2channel6-2.wav
+reference = ["gitu kan hm heeh seperti itu bu oh oh bu sekalian titip ini dong titip salam apa masih ada tut ga masih oh hari ini aku masih gajian beberapa kali oh ya oke kalau gitu baik bu iya yaudahla gapapa sek bentar ya makasih bu aku aku bilang hanya terdengar kata peny sampe dengan kata terakhir aku bilang aja ya mohon aku ngomong mohon informasinya"]
+prediction_transcript = ["nggirkan eperbitubuk nygobuk galian ptipi penyedong tidup kalam paku madada tungga masih hari ini aku mahakut cadiyan beberapa kali bahu yartarkele gitu bagu kamun laki befeat nhatnya aya seadalan kau saya pentaya tibuk aku aku pilang cati hanya tertenggat dari katata ini sampai tengan hakata rakit aku bilanganca ya emohon yang memangungkin mohon informasinya"]
+
+Wer Score :  0.8307692307692308
+
+Sample2channel6-3.wav
+reference = ["lah terkait telepon masuk ke peny sepuluh lima puluh dimana sepuluh lima delapan bu eh sepuluh lima delapan sepuluh lima delapan ya dimana dealer telepon dealer hanya terdengar"]
+prediction_transcript = ["kerkait telepon masuk ke peni kauluh lima puluh di mana dumli malakon bu teh sepuluh dimalapon simalapannya sepulu melakukan i mana diler tedimana telepondiliar hanya t"]
+
+Wer Score :  0.7142857142857143
+
+Sample2channel6-4.wav
+reference = ["ujung dari kata hanya terdengar ya oke aku gitu aja ya iya bu thank you ya sama sama bu"]
+prediction_transcript = ["dujunggal iapa tilek banyak terdengar y oke aku kita nyaya siakuh yetayang gia kama buku"]
+
+Wer Score :  0.8421052631578947
