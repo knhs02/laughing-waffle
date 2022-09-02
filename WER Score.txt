@@ -45,3 +45,9 @@ reference = ["ujung dari kata hanya terdengar ya oke aku gitu aja ya iya bu than
 prediction_transcript = ["dujunggal iapa tilek banyak terdengar y oke aku kita nyaya siakuh yetayang gia kama buku"]
 
 Wer Score :  0.8421052631578947
+
+podcast-1.wav
+reference = ["proklamasi kemerdekaan indonesia rina dan rani sedang istirahat di kantin mereka sedang berbincang bincang rani tadi di perpustakaan aku ketemu buku tentang sejarah indonesia loh oh ya coba lihat nih mereka membuka bukunya dan memasuki topik tentang proklamasi kemerdekaan indonesia wah tidak disangka yah ternyata proklamasi kemerdekaan indonesia itu di"]
+prediction_transcript = ["peraklamasi kembedehkaan indonesia rina dan rani sedang istirahat di kantin mereka sedang berbincang nesa dony tadi dia perpustakaan aku kentabum buku tentang sejara indonesia loh ohya cobalihat nimereka membuka bukunya dan memaski topik tentang praklamasi kemedekaan indonesia wah tidak disanka yah tenyata perakla masi kemadiakan indonesia itu lila"]
+
+Wer Score :  0.44
