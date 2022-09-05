@@ -1,0 +1,21 @@
+what can be improved:
+1. fine tuning model
+2. banyak kata kata yang ga ada di bahasa indonesia yang ke detect, harus coba cari cara supaya bisa hasil prediction di crosscheck ke bahasa indonesia mungkin auto-correct setelah prediction(?)
+3. 
+
+
+yg masih kurang:
+1. model masih kurang akurat
+2. dataset bahasa indonesia yang formatnya .wav
+3. 
+
+model pre-trained lain:
+1. Wav2Vec2 Indonesian Javanese and Sundanese by Indonesian NLP
+2. XLSR Wav2Vec2 Indonesian by Indonesian NLP
+3. XLSR Wav2Vec2 Indonesian Mix by Cahya
+4. XLSR Wav2Vec2 Indonesia by Ayame Rushia
+5. XLSR Wav2Vec2 Indonesian by Galuh
+6. XLSR Wav2Vec2 Indonesian by Ridho
+7. XLSR Wav2Vec2 Indonesian Baseline by indonesian-nlp
+8. XLSR Wav2Vec2 Indonesian by cahya
+9. XLSR Wav2Vec2 Indonesian with Artificial Voice by Cahya
