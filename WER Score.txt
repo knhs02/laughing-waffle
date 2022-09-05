@@ -51,3 +51,15 @@ reference = ["proklamasi kemerdekaan indonesia rina dan rani sedang istirahat di
 prediction_transcript = ["peraklamasi kembedehkaan indonesia rina dan rani sedang istirahat di kantin mereka sedang berbincang nesa dony tadi dia perpustakaan aku kentabum buku tentang sejara indonesia loh ohya cobalihat nimereka membuka bukunya dan memaski topik tentang praklamasi kemedekaan indonesia wah tidak disanka yah tenyata perakla masi kemadiakan indonesia itu lila"]
 
 Wer Score :  0.44
+
+podcast-2.wav
+reference = ["kukan di rumah soekarno loh wah tidak disangka ya mereka akhirnya telah selesai membaca buku itu dan melanjutkan sekolah seperti biasa besoknya rina aku mencari kamu loh daritadi oh ada apa rani proklamasi kemerdekaan indonesia itu dilakukan tanggal berapa ya aku sudah lupa kemarin semalam aku tidak bisa tidur karena sangat ingin tahu tapi"]
+prediction_transcript = ["kukan di rumah sukkanmu wahtidak disangkaya mereka akhirnya telah seselesai membaca buku itu dan melajutkan sekolah seperti biasa besoknya tina aku mencari kamu dari tadi ada apa dani laka masih kemedakaan indonesia itu bilakukan tanggal berapa ya aku sudah blupa kemarin semalam aku tidak bisa tidur kanah sangat ingin tahu tabil"]
+
+Wer Score :  0.37037037037037035
+
+podcast-3.wav
+reference = ["lupa oh proklamasi kemerdekaan indonesia itu dilakukan pada tanggal 17 agustus seribu sembilan ratus empat puluh lima yang juga menjadi hari kemerdekaannya indonesia proklamasi kemerdekaan indonesia ini dilakukan oleh presiden pertama indonesia yaitu soekarno"]
+prediction_transcript = ["phohpluklamasi kemendekan indonesia itu dilakukan pada tanggal tujuh bahasa agustu seribu sembilan ratus papu lima yang juga menjadi hari mendekanya indonesia proklamasi kemedekaan indonesia ini dilakukan oleh prasidan pertama indonesia kaitosukan"]
+
+Wer Score :  0.4117647058823529
