@@ -69,3 +69,62 @@ reference = ["bbm dengan kadar ron lapan sembilan milik vivo dikabarkan hilang d
 prediction_transcript = ["beberin dengan kadaron lepon sembilan merik vivo di kabarkan hilang dari pasaran kabar revo lepan semilan nenyak usaya disebut mensyarafat yang banting stir setelah memberintah menerikan harga jua pertelat menjadi sepuluh ribu karleter dari sebelumnya tujuh ribu nomratu imapuluh perletor pada sabtu biaskan pantawan sianan indonesia dotkop minggu speespebeuvivo pamolang tidak menyedaakan revo lapan sembilan menurt informasi ketugas pasukkan bebenonronrnda tersebut telah habis"]
 
 Wer Score :  0.6
+
+commonvoice-1.wav
+reference = ["kakak perempuan saya akan menikah pada musim semi tahun depan"]
+prediction_transcript = ["kakak peempan saya akan menikah pada musim semi tahun depan"]
+
+Wer Score :  0.1
+
+commonvoice-2.wav
+reference = ["john mewakili kelasnya di perlombaan renang"]
+prediction_transcript = ["john mewakili kelasnya di perlombaan renang"]
+
+Wer Score :  0.0
+
+commonvoice-3.wav
+reference = ["dia meningggal dunia kemarin siang"]
+prediction_transcript = ["dia meninggal dunia kemarin sia"]
+
+Wer Score :  0.4
+
+commonvoice-4.wav
+reference = ["apakah kamu salah satu dari anak anak di ruangan ini"]
+prediction_transcript = ["apakah kamu salah satu dari anakanak di ruangan ini"]
+
+Wer Score :  0.2
+
+commonvoice-5.wav
+reference = ["apakah ini sangat sakit"]
+prediction_transcript = ["apakah ini sangat sakit"]
+
+Wer Score :  0.0
+
+commonvoice-6.wav
+reference = ["seperti ayah seperti anak"]
+prediction_transcript = ["seperti ayah seperti anak"]
+
+Wer Score :  0.0
+
+commonvoice-7.wav
+reference = ["dia mencoba berhenti merokok"]
+prediction_transcript = ["dia mencoba berhenti merokok"]
+
+Wer Score :  0.0
+
+commonvoice-8.wav
+reference = ["tom terjatuh ke dalam kolam"]
+prediction_transcript = ["tom terjatuh ke dalam kolam"]
+
+Wer Score :  0.0
+
+commonvoice-9.wav
+reference = ["apakah kamu sering menangis"]
+prediction_transcript = ["apakah kamu sering menangis"]
+
+Wer Score :  0.0
+
+
+
+
+
