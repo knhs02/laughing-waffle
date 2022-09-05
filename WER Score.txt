@@ -63,3 +63,9 @@ reference = ["lupa oh proklamasi kemerdekaan indonesia itu dilakukan pada tangga
 prediction_transcript = ["phohpluklamasi kemendekan indonesia itu dilakukan pada tanggal tujuh bahasa agustu seribu sembilan ratus papu lima yang juga menjadi hari mendekanya indonesia proklamasi kemedekaan indonesia ini dilakukan oleh prasidan pertama indonesia kaitosukan"]
 
 Wer Score :  0.4117647058823529
+
+recording-1.wav
+reference = ["bbm dengan kadar ron lapan sembilan milik vivo dikabarkan hilang dari pasaran kabar revvo lapan sembilan lenyap usai diserbu masyarakat yang banting setir setelah pemerintah menaikkan harga jual pertalite menjadi sepuluh ribu per liter dari sebelumnya tujuh ribu enam ratus lima puluh per liter pada sabtu berdasarkan pantauan cnnindonesia dot com minggu spbu vivo pamulang tidak menyediakan revo lapan sembilan menurut informasi petugas pasokan bbm ron rendah tersebut telah habis"]
+prediction_transcript = ["beberin dengan kadaron lepon sembilan merik vivo di kabarkan hilang dari pasaran kabar revo lepan semilan nenyak usaya disebut mensyarafat yang banting stir setelah memberintah menerikan harga jua pertelat menjadi sepuluh ribu karleter dari sebelumnya tujuh ribu nomratu imapuluh perletor pada sabtu biaskan pantawan sianan indonesia dotkop minggu speespebeuvivo pamolang tidak menyedaakan revo lapan sembilan menurt informasi ketugas pasukkan bebenonronrnda tersebut telah habis"]
+
+Wer Score :  0.6
