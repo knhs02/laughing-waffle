@@ -1,15 +1,31 @@
+advantages:
+1.  Predicts word with the best precision on the market rn
+
+disadvantages:
+1. takes a lot of memory for long speech. (Long input sequences require a lot of memory. Since Wav2Vec2 is based on self-attention the memory requirement scales quadratically with the input length for long input sequences)
+
 what can be improved:
 1. fine tuning model
 2. banyak kata kata yang ga ada di bahasa indonesia yang ke detect, harus coba cari cara supaya bisa hasil prediction di crosscheck ke bahasa indonesia mungkin auto-correct setelah prediction(?)
-3. 
+3.  mungkin dicoba dengan auto-correct untuk kata kata baku
+4. 
 
 
 yg masih kurang:
 1. model masih kurang akurat
 2. dataset bahasa indonesia yang formatnya .wav
-3. 
+3. memory 
+4. 
+
+kemungkinan hasil yang kurang bagus:
+1. Bahasa Indonesia yang kurang baku
+2. pelafalan yang kurang baik sehingga proses prediksi yang dilakukan model kurang baik
+3. pelafalan yang berbeda beda
+4. dataset speech bahasa indonesia yang digunakan merupakan clip audio yang pendek sehingga tingkat error lebih kecil jika dibandingkan dengan audio yang panjang
+5. 
 
 model pre-trained lain:
+https://paperswithcode.com/sota/speech-recognition-on-common-voice-indonesian
 1. Wav2Vec2 Indonesian Javanese and Sundanese by Indonesian NLP
 2. XLSR Wav2Vec2 Indonesian by Indonesian NLP
 3. XLSR Wav2Vec2 Indonesian Mix by Cahya
@@ -19,3 +35,5 @@ model pre-trained lain:
 7. XLSR Wav2Vec2 Indonesian Baseline by indonesian-nlp
 8. XLSR Wav2Vec2 Indonesian by cahya
 9. XLSR Wav2Vec2 Indonesian with Artificial Voice by Cahya
+
+fine-tuning:
