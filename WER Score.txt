@@ -1,4 +1,5 @@
 *Raw(Not Fine Tune/Base) Model*
+------------------------------------------------------------------------------------------------------------
 
 Malinkundangtest2.wav (30 Sec)
 
@@ -126,8 +127,11 @@ reference = ["apakah kamu sering menangis"]
 prediction_transcript = ["apakah kamu sering menangis"]
 
 Wer Score :  0.0
+------------------------------------------------------------------------------------------------------------
+
 
 *Fine Tuned Model*
+------------------------------------------------------------------------------------------------------------
 gpu-00
 ocha.wav
 reference=["halo gengs gw ocha jadi hari ini kita bakal liat sebuah keyboard yang udah ga asing lagi buat kalian yaitu adalah pressplay rover versi ketiga ini adalah sebuah keyboard yang dapat lumayan banyak perubahan dari versi yang sebelumnya dan jujur aja gw suka si coba kita lihat apakah ini bisa jadi keyboard andalan tahun dua ribu dua dua setelah pesan dari sponsor lengkapin setup kalian dengan soundtech pro boom "]
@@ -141,6 +145,7 @@ prediction_transcript=["rakamasi kemendekan indonesa rina dan rani sedang istira
 
 Wer Score :  0.68
 
+------------------------------------------------------------------------------------------------------------
 gpu-01
 
 podcast-1.wav
@@ -148,3 +153,21 @@ reference=["proklamasi kemerdekaan indonesia rina dan rani sedang istirahat di k
 prediction_transcript=["proklamasih kemedekan indonesa rina dan rani sedang asirahat di kantin mereka sedang berbincang mnaroni tadi dia perpustakaan aku kenta bumbuku tentang sejara indonesa lohoya jobayanihmereka membuka bukunya dan memasuki topik tentang prokla mashi kemedekan indonsaah tida di sangka ya tenyatak prokla masih kemedekan indonesa itu"]
 
 Wer Score :  0.64
+
+podcast-2.wav
+reference=["kukan di rumah soekarno loh wah tidak disangka ya mereka akhirnya telah selesai membaca buku itu dan melanjutkan sekolah seperti biasa besoknya rina aku mencari kamu loh daritadi oh ada apa rani proklamasi kemerdekaan indonesia itu dilakukan tanggal berapa ya aku sudah lupa kemarin semalam aku tidak bisa tidur karena sangat ingin tahu tapi"]
+prediction_transcript=["kukan memasukanmulh wah tidak di sangka yah mereka ahirnya teleh seselesai membaca buku itudan melajutkan sekolah seperti biasabesoknyarina aku mencaa kamulo day ri tadihada apa daniprokra masih ke medekan indonesia itu belakukan tangal bapa yah aku sudah lupa kemari semalam aku tidak bisa tidur kandah sangat ingin tahu tabi"]
+
+Wer Score :  0.6111111111111112
+
+Sample2channel6-3.wav
+reference=["lah terkait telepon masuk ke peny sepuluh lima puluh dimana sepuluh lima delapan bu eh sepuluh lima delapan sepuluh lima delapan ya dimana dealer telepon dealer hanya terdengar"]
+prediction_transcript=["aai kamaakuonmakupanini uu iga kuludangaa  keuimealakan buke eudimalaka  imakan yaumaaakankenganngaa kiggal kala  tinmanaklekuntian angya kade"]
+
+Wer Score : 1.0
+
+Sample_2_channel_03.wav
+reference=["halo testing call testing call dari dua tiga enam dua nol ke hape testing call dua tiga enam dua nol ke hape testing call dua tiga enam dua nol ke hape testing call terima call dari hape dari dua tiga enam dua puluh terima dari dua tiga enam dua puluh di hape"]
+prediction_transcript=["halu tertingkol tertingkol dari dua tiga nam duanol kehape tertingkol dua tiga enam dua nol kehalpe tertingkol dua tiga enam duanol kaapetertingkol terima kol dari halpe ddari dua tiga nam dua muluh terima dari dua tigenam dua piape"]
+
+Wer Score :  0.6153846153846154
