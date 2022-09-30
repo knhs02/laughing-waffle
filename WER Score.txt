@@ -128,7 +128,7 @@ prediction_transcript = ["apakah kamu sering menangis"]
 Wer Score :  0.0
 
 *Fine Tuned Model*
-
+gpu-00
 ocha.wav
 reference=["halo gengs gw ocha jadi hari ini kita bakal liat sebuah keyboard yang udah ga asing lagi buat kalian yaitu adalah pressplay rover versi ketiga ini adalah sebuah keyboard yang dapat lumayan banyak perubahan dari versi yang sebelumnya dan jujur aja gw suka si coba kita lihat apakah ini bisa jadi keyboard andalan tahun dua ribu dua dua setelah pesan dari sponsor lengkapin setup kalian dengan soundtech pro boom "]
 prediction_transcript=["tu yang sekujajari hari ningramakalihat sebuah khibort yang pastingga asing lagi dari kalian yetura prestle roverversi ketiga inalasebuo khiborte yang dapatlu main banyak perubahannya dari varsi yang sebelumnya dan jujalja dua sukasi jopakita lhat apakah ini bisa jerikibaanalan tahun daabududua setelah pesanda risponsoengkapin seetap kalian dengan sauntek probum"]
@@ -141,4 +141,10 @@ prediction_transcript=["rakamasi kemendekan indonesa rina dan rani sedang istira
 
 Wer Score :  0.68
 
+gpu-01
 
+podcast-1.wav
+reference=["proklamasi kemerdekaan indonesia rina dan rani sedang istirahat di kantin mereka sedang berbincang bincang rani tadi di perpustakaan aku ketemu buku tentang sejarah indonesia loh oh ya coba lihat nih mereka membuka bukunya dan memasuki topik tentang proklamasi kemerdekaan indonesia wah tidak disangka yah ternyata proklamasi kemerdekaan indonesia itu di"]
+prediction_transcript=["proklamasih kemedekan indonesa rina dan rani sedang asirahat di kantin mereka sedang berbincang mnaroni tadi dia perpustakaan aku kenta bumbuku tentang sejara indonesa lohoya jobayanihmereka membuka bukunya dan memasuki topik tentang prokla mashi kemedekan indonsaah tida di sangka ya tenyatak prokla masih kemedekan indonesa itu"]
+
+Wer Score :  0.64
