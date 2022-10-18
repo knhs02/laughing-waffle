@@ -402,3 +402,46 @@ Step	Training Loss	Validation Loss	Wer
 2800	0.087600	0.337409	0.349991
 3200	0.070900	0.343191	0.341227
 3600	0.060100	0.339436	0.334887
+
+11
+model = Wav2Vec2ForCTC.from_pretrained(
+    "facebook/wav2vec2-xls-r-300m", 
+    attention_dropout=0.15,
+    hidden_dropout=0.15,
+    feat_proj_dropout=0.0,
+    mask_time_prob=0.05,
+    layerdrop=0.0,
+    ctc_loss_reduction="mean", 
+    pad_token_id=processor.tokenizer.pad_token_id,
+    vocab_size=len(processor.tokenizer),
+)
+training_args = TrainingArguments(
+  output_dir=repo_name,
+  group_by_length=True,
+  per_device_train_batch_size=16,
+  gradient_accumulation_steps=2,
+  evaluation_strategy="steps",
+  num_train_epochs=40,
+  fp16=True,
+  gradient_checkpointing=True,
+  save_steps=400,
+  eval_steps=400,
+  logging_steps=400,
+  learning_rate=3e-4,
+  warmup_steps=500,
+  save_total_limit=2,
+  push_to_hub=False,
+)
+Step	Training Loss	Validation Loss	Wer
+400	4.205600	    0.717437	0.689819
+800	0.504600	    0.370592	0.463640
+1200	0.258600	0.377101	0.418423
+1600	0.190400	0.379585	0.397632
+2000	0.150000	0.395482	0.391572
+2400	0.122500	0.393241	0.389707
+2800	0.111500	0.400994	0.369942
+3200	0.095000	0.406215	0.369663
+3600	0.080200	0.414120	0.355771
+4000	0.071300	0.389544	0.346541
+4400	0.061000	0.408598	0.343931
+4800	0.055300	0.394271	0.342532
