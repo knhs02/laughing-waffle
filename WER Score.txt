@@ -175,8 +175,28 @@ Wer Score :  0.6153846153846154
 ------------------------------------------------------------------------------------------------------------
 Google Cloud Platform
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ocha.wav
+Prediction :  jadi hari ini kita bakal lihat sebuah keyboard yang pasti nggak asing lagi Tadi kalian ya itulah pressplay cover versi ketiga adalah sebuah keyboard yang dapat lumayan banyak perubahan dari pers yang sebenarnya dan jujur aja gua suka sih Coba kita lihat apakah ini bisa jadi tahun 2002 telah pesan dari sponsor lengkapi setiap kalian dengan santai problem
+Reference :  halo gengs gw ocha jadi hari ini kita bakal liat sebuah keyboard yang udah ga asing lagi buat kalian yaitu adalah pressplay rover versi ketiga ini adalah sebuah keyboard yang dapat lumayan banyak perubahan dari versi yang sebelumnya dan jujur aja gw suka si coba kita lihat apakah ini bisa jadi keyboard andalan tahun dua ribu dua dua setelah pesan dari sponsor lengkapin setup kalian dengan soundtech pro boom arm yang fleksibel mau ditaruh di samping meja ataupun
+WER Score :  0.47435897435897434
+------------------------------------------------------------------------------------------------------------------------------------------------------
 podcast-1.wav
-reference = ['proklamasi kemerdekaan indonesia rina dan rani sedang istirahat di kantin mereka sedang berbincang-bincang rani tadi di perpustakaan aku ketemu buku tentang sejarah indonesia loh oh ya coba lihat nih mereka membuka bukunya dan memasuki topik tentang proklamasi kemerdekaan indonesia wah tidak disangka yah ternyata proklamasi kemerdekaan indonesia itu di']
-prediction_transcript = ['proklamasi kemerdekaan indonesia rina dan Rani sedang istirahat di kantin mereka sedang berbincang-bincang tadi di perpustakaan aku kan aku tentang sejarah indonesia loh oh ya coba lihat mereka membuka bukunya dan memasuki topik tentang proklamasi kemerdekaan indonesia wah tidak disangka ya ternyata proklamasi kemerdekaan indonesia yaitu']
-
-Wer Score :  0.1836734693877551
+Prediction :  Proklamasi Kemerdekaan Indonesia Rina dan Rani sedang istirahat di kantin mereka sedang berbincang-bincang tadi di perpustakaan aku kan aku tentang sejarah Indonesia loh Oh ya Coba lihat mereka membuka bukunya dan memasuki topik tentang proklamasi kemerdekaan Indonesia Wah tidak disangka ya ternyata Proklamasi Kemerdekaan Indonesia yaitu
+Reference :  proklamasi kemerdekaan indonesia rina dan rani sedang istirahat di kantin mereka sedang berbincang bincang rani tadi di perpustakaan aku ketemu buku tentang sejarah indonesia loh oh ya coba lihat nih mereka membuka bukunya dan memasuki topik tentang proklamasi kemerdekaan indonesia wah tidak disangka yah ternyata proklamasi kemerdekaan indonesia itu di
+WER Score :  0.18
+------------------------------------------------------------------------------------------------------------------------------------------------------
+podcast-2.wav
+Prediction :  aku kan di rumah Soekarno loh tidak disangka ya mereka Akhirnya telah selesai membaca buku itu dan melanjutkan sekolah seperti biasa besoknya Tina Aku mencari kamu loh Dari tadi Oh ada apa Rani Proklamasi Kemerdekaan Indonesia itu dilakukan tanggal berapa ya aku sudah lupa kemarin semalam aku tidak bisa tidur karena sangat ingin tahu
+Reference :  kukan di rumah soekarno loh wah tidak disangka ya mereka akhirnya telah selesai membaca buku itu dan melanjutkan sekolah seperti biasa besoknya rina aku mencari kamu loh daritadi oh ada apa rani proklamasi kemerdekaan indonesia itu dilakukan tanggal berapa ya aku sudah lupa kemarin semalam aku tidak bisa tidur karena sangat ingin tahu tapi
+WER Score :  0.12962962962962962
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Sample_2_channel_03_Mono.wav
+Prediction :  halo testing call Tertinggal dari 23620 ke HP SMS 0236 2002 3620 ke HP
+Reference :  halo testing call testing call dari 23620 ke HP testing call 23620 ke HP testing call 23620 ke HP testing call terima call dari HP dari 236 20 terima dari 23620 di HP
+WER Score :  0.7878787878787878
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Sample2channel6-3.wav
+Prediction :  terkait telepon masuk ke Peni 1050 di mana 5 8 10 5 8 5 8 ya 10 8 gimana dealer di mana telepon dealer hanya mendengar
+Reference :  lah terkait telepon masuk ke peni 1050 di mana 1058 bu eh 1058 1058 ya dimana dealer telepon dealer hanya terdengar
+WER Score :  0.6666666666666666
