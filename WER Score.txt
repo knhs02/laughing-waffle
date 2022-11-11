@@ -242,3 +242,21 @@ testing_stereo_right.wav
 Prediction :  halo testing testing call dari 23620 ke HP SMS 0236 2002 3620 ke HP
 Reference :  halo testing call testing call dari 23620 ke hp testing call 23620 ke hp testing call 23620 ke hp
 WER Score :  0.47368421052631576
+
+
+Whisper AI
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ocha.wav
+halo gengs gue ocha jadi hari ini kita bakal lihat sebuah keyboard yang pasti nggak asing lagi dari kalian yaitu adalah presplay rover versi ke-3 inilah sebuah keyboard yang dapat lumayan banyak perubahan ya dari versi yang sebelumnya dan jujur aja gue suka sih coba kita lihat apakah ini bisa jadi keyboard analan tahun 2022 setelah pesan dari sponsor lengkapin setup kalian dengan soundtek pro boom
+
+WER Score : 0.3461538461538461
+
+podcast-1.wav
+proklamasi kemerdekaan indonesia rina dan rani sedang istirahat di kantin mereka sedang berbincang-bincang rani tadi di perpustakaan aku ketemu buku tentang sejarah indonesia lho oh ya coba lihat nih mereka membuka bukunya dan memasuki topik tentang proklamasi kemerdekaan indonesia wah tidak disangka ya ternyata proklamasi kemerdekaan indonesia itu dilakukan
+
+WER Score : 0.1
+
+podcast-2.wav
+aku kan di rumah sukarno loh wah tidak disangka ya mereka akhirnya telah selesai membaca buku itu dan melanjutkan sekolah seperti biasa besoknya rina aku mencari kamu loh dari tadi oh ada apa rani rokamasi kemerdekaan indonesia itu dilakukan tanggal berapa ya aku sudah lupa kemarin semalam aku tidak bisa tidur karena sangat ingin tahu tapi lo
+
+WER Score : 0.12962962962962962
