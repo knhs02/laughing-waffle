@@ -1,0 +1,10 @@
+16/11/2022
+1. Whisper AI struggles with no speech/whitenoise during the recording if its placed at the front of the recording.
+  -> logprob_threshold and no_speech_threshold being used should help but it didnt help
+  -> didnt help either with the recording being at 8KHz
+  -> might have to try with large and base model
+ 
+ 2. Live transcribe for Whisper AI is done but its not really live since we have to record it at times and then transcribe it
+  -> we can try to just transcribe stuff intervally 
+  
+  
