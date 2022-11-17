@@ -260,3 +260,36 @@ podcast-2.wav
 aku kan di rumah sukarno loh wah tidak disangka ya mereka akhirnya telah selesai membaca buku itu dan melanjutkan sekolah seperti biasa besoknya rina aku mencari kamu loh dari tadi oh ada apa rani rokamasi kemerdekaan indonesia itu dilakukan tanggal berapa ya aku sudah lupa kemarin semalam aku tidak bisa tidur karena sangat ingin tahu tapi lo
 
 WER Score : 0.12962962962962962
+
+
+LARGE MODEL
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ocha
+Reference :  halo gengs gw ocha jadi hari ini kita bakal liat sebuah keyboard yang udah ga asing lagi buat kalian yaitu adalah pressplay rover versi ketiga ini adalah sebuah keyboard yang dapat lumayan banyak perubahan dari versi yang sebelumnya dan jujur aja gw suka si coba kita lihat apakah ini bisa jadi keyboard andalan tahun 2022 setelah pesan dari sponsor lengkapin setup kalian dengan soundtech pro boom arm yang fleksibel mau ditaruh di samping meja ataupun
+Prediction :  halo gengs gw cia jadi hari ini kita bakal lihat sebuah keyboard yang pasti nggak asing lagi dari kalian yaitu adalah pressplay rover versi ketiga ini adalah sebuah keyboard yang dapat lumayan banyak perubahannya dari versi yang sebelumnya dan jujur aja gue suka sih coba kita lihat apakah ini bisa jadi keyboard andalan tahun 2022 setelah pesan dari sponsor lengkapin setup kalian dengan soundtek pro boom
+WER Error :  0.24
+------------------------------------------------------------------------------------------------------------------------------------------------------
+podcast-1
+Reference :  proklamasi kemerdekaan indonesia rina dan rani sedang istirahat di kantin mereka sedang berbincang bincang rani tadi di perpustakaan aku ketemu buku tentang sejarah indonesia loh oh ya coba lihat nih mereka membuka bukunya dan memasuki topik tentang proklamasi kemerdekaan indonesia wah tidak disangka yah ternyata proklamasi kemerdekaan indonesia itu di
+Prediction :  proklamasi kemerdekaan indonesia rina dan rani sedang istirahat di kantin mereka sedang berbincang-bincang rony tadi di perpustakaan aku ketemu buku tentang sejarah indonesia loh oh ya coba lihat nih mereka membuka bukunya dan memasuki topik tentang proklamasi kemerdekaan indonesia wah tidak disangka ya ternyata proklamasi kemerdekaan indonesia itu dilakukan
+WER Error :  0.1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+podcast-2
+Reference :  kukan di rumah soekarno loh wah tidak disangka ya mereka akhirnya telah selesai membaca buku itu dan melanjutkan sekolah seperti biasa besoknya rina aku mencari kamu loh daritadi oh ada apa rani proklamasi kemerdekaan indonesia itu dilakukan tanggal berapa ya aku sudah lupa kemarin semalam aku tidak bisa tidur karena sangat ingin tahu tapi
+Prediction :  di rumah sukarno loh wah tidak disangka ya mereka akhirnya telah selesai membaca buku itu dan melanjutkan sekolah seperti biasa besoknya rina aku mencari kamu loh dari tadi oh ada apa rani proklamasi kemerdekaan indonesia itu dilakukan tanggal berapa ya aku sudah lupa kemarin semalam aku tidak bisa tidur karena sangat ingin tahu tapi
+WER Error :  0.07407407407407407
+------------------------------------------------------------------------------------------------------------------------------------------------------
+sample2channel6-3
+Reference :  lah terkait telepon masuk ke peni 1050 di mana 1058 bu eh 1058 1058 ya dimana dealer telepon dealer hanya terdengar
+Prediction :  berkait telepon masuk ke bani 1050 di mana 1058 bu eh 1058 58 ya 1058 di mana dealer di mana telepon dealer hanya pendengar
+WER Error :  0.47619047619047616
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Sample_2_channel_03_left
+Reference :  testing call terima call dari hp dari 23620 terima dari 23620 di hp
+Prediction :  tesing call terima dari hp dari 23620 terima dari 23620 di hp
+WER Error :  0.15384615384615385
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Sample_2_channel_03_right
+Reference :  halo testing call testing call dari 23620 ke hp testing call 23620 ke hp testing call 23620 ke hp
+Prediction :  testik kol dari 23620 ke hp
+WER Error :  0.7894736842105263
